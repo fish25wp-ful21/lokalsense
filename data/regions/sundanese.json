@@ -1,0 +1,99 @@
+{
+  "id": "sundanese",
+  "name": "Sundanese",
+  "language": "Basa Sunda",
+  "description": "Everyday terms, polite (lemes) vs casual (loma) distinctions, and regional slang from West Java.",
+  "premium": false,
+  "entries": [
+    {
+      "term": "Hatur nuhun",
+      "pronunciation": "ha-tur noo-hun",
+      "literal": "Thank you",
+      "contextual": "The standard polite thank you in Sundanese.",
+      "level": "polite",
+      "guidanceType": "response",
+      "culturalTip": "Reply with 'sami-sami' and a warm smile. A gentle nod adds sincerity."
+    },
+    {
+      "term": "Punten",
+      "pronunciation": "pun-ten",
+      "literal": "Excuse me / pardon",
+      "contextual": "Used when passing someone, entering a home, or getting attention.",
+      "level": "polite",
+      "guidanceType": "gesture",
+      "culturalTip": "When walking past seated people, slightly bow and lower your right hand. The expected reply is 'mangga'."
+    },
+    {
+      "term": "Mangga",
+      "pronunciation": "mang-ga",
+      "literal": "Please / go ahead",
+      "contextual": "An invitation or permission — 'please, go ahead'. The natural response to 'punten'.",
+      "level": "polite",
+      "guidanceType": "response",
+      "culturalTip": "Offer it with an open palm. Used constantly when offering seats, food, or letting someone pass."
+    },
+    {
+      "term": "Kumaha damang",
+      "pronunciation": "ku-ma-ha da-mang",
+      "literal": "How are you (well)?",
+      "contextual": "Polite 'how are you?' literally asking if you're healthy.",
+      "level": "polite",
+      "guidanceType": "response",
+      "culturalTip": "Reply 'pangesto' or 'damang' (I'm well). Asking back shows good manners."
+    },
+    {
+      "term": "Sumuhun",
+      "pronunciation": "su-mu-hun",
+      "literal": "Yes",
+      "contextual": "Polite 'yes' (lemes). Used with elders and respected people.",
+      "level": "polite",
+      "guidanceType": "social",
+      "culturalTip": "The casual 'enya' is fine with friends, but use 'sumuhun' to show respect to elders."
+    },
+    {
+      "term": "Enya",
+      "pronunciation": "eh-nya",
+      "literal": "Yes",
+      "contextual": "Casual 'yes' (loma) among peers.",
+      "level": "casual",
+      "guidanceType": "social",
+      "culturalTip": "Keep this for friends your own age. Switch to 'sumuhun' in formal or respectful contexts."
+    },
+    {
+      "term": "Cik",
+      "pronunciation": "cheek",
+      "literal": "Let me / may I",
+      "contextual": "Casual softener — 'let me try' or 'may I'. Common slang to ask gently.",
+      "level": "casual",
+      "guidanceType": "social",
+      "culturalTip": "Friendly and informal. Pairing it with a smile keeps a request light and non-demanding."
+    },
+    {
+      "term": "Wilujeng sumping",
+      "pronunciation": "wi-lu-jeng sum-ping",
+      "literal": "Welcome (safe arrival)",
+      "contextual": "A warm welcome greeting to guests.",
+      "level": "polite",
+      "guidanceType": "response",
+      "culturalTip": "Respond with 'hatur nuhun'. Accepting offered tea or snacks is a sign of respect for the host."
+    },
+    {
+      "term": "Teu sawios",
+      "pronunciation": "teu sa-wi-os",
+      "literal": "It's nothing / no problem",
+      "contextual": "Polite 'it's okay' or 'no worries' after an apology.",
+      "level": "polite",
+      "guidanceType": "response",
+      "culturalTip": "A gracious reply that smooths over small mistakes. Say it with a relaxed, forgiving tone."
+    },
+    {
+      "term": "Euleuh",
+      "pronunciation": "eu-leuh",
+      "literal": "Wow / oh my",
+      "contextual": "Slang exclamation of surprise or admiration.",
+      "level": "casual",
+      "guidanceType": "social",
+      "culturalTip": "An expressive, friendly interjection. Mirroring the speaker's excitement builds rapport."
+    }
+  ]
+}

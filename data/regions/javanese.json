@@ -1,0 +1,99 @@
+{
+  "id": "javanese",
+  "name": "Javanese",
+  "language": "Basa Jawa",
+  "description": "Common words, polite (krama) vs casual (ngoko) speech, and frequent slang from Central & East Java.",
+  "premium": false,
+  "entries": [
+    {
+      "term": "Inggih",
+      "pronunciation": "ing-gih",
+      "literal": "Yes",
+      "contextual": "A polite, respectful 'yes' (krama). Used when speaking to elders or people of higher status.",
+      "level": "polite",
+      "guidanceType": "response",
+      "culturalTip": "Pair it with a slight bow of the head and a soft tone. Saying just 'iya' (casual) to an elder can seem rude."
+    },
+    {
+      "term": "Iya",
+      "pronunciation": "ee-ya",
+      "literal": "Yes",
+      "contextual": "Casual 'yes' (ngoko). Fine among friends and people of the same age.",
+      "level": "casual",
+      "guidanceType": "social",
+      "culturalTip": "Avoid using this with older people or officials — switch to 'inggih' to show respect."
+    },
+    {
+      "term": "Matur nuwun",
+      "pronunciation": "ma-tur noo-wun",
+      "literal": "Thank you",
+      "contextual": "Polite thank you. The standard courteous expression of gratitude.",
+      "level": "polite",
+      "guidanceType": "response",
+      "culturalTip": "Respond with a gentle smile and a small nod. You can reply 'sami-sami' (you're welcome)."
+    },
+    {
+      "term": "Monggo",
+      "pronunciation": "mong-go",
+      "literal": "Please / go ahead",
+      "contextual": "An invitation — 'please, after you' or 'help yourself'. Very common when offering food or passing someone.",
+      "level": "polite",
+      "guidanceType": "gesture",
+      "culturalTip": "Often said with an open palm gesture pointing the way. Returning 'monggo' back is polite when passing each other."
+    },
+    {
+      "term": "Nuwun sewu",
+      "pronunciation": "noo-wun se-woo",
+      "literal": "A thousand pardons",
+      "contextual": "Excuse me / sorry to bother. Used before interrupting or passing in front of someone.",
+      "level": "polite",
+      "guidanceType": "social",
+      "culturalTip": "When passing in front of seated elders, slightly lower your body and extend your right hand downward as you say it."
+    },
+    {
+      "term": "Piye kabare",
+      "pronunciation": "pee-yeh ka-ba-reh",
+      "literal": "How is the news?",
+      "contextual": "Casual 'how are you?' among friends.",
+      "level": "casual",
+      "guidanceType": "response",
+      "culturalTip": "A warm casual greeting. Reply 'apik' (good) with a smile. Keep it light and friendly."
+    },
+    {
+      "term": "Sendika dhawuh",
+      "pronunciation": "sen-di-ka da-wuh",
+      "literal": "I obey the order",
+      "contextual": "A very respectful 'yes, I will do it' to a superior or elder.",
+      "level": "polite",
+      "guidanceType": "social",
+      "culturalTip": "Reserved for high-respect situations. Using it casually can sound sarcastic, so keep it sincere."
+    },
+    {
+      "term": "Ndhredheg",
+      "pronunciation": "n-dre-deg",
+      "literal": "Trembling / nervous",
+      "contextual": "Slang for feeling nervous or shaky, often before a big moment.",
+      "level": "casual",
+      "guidanceType": "response",
+      "culturalTip": "If a friend says this, offer reassurance with a pat on the shoulder — physical comfort among friends is welcome."
+    },
+    {
+      "term": "Mangan",
+      "pronunciation": "ma-ngan",
+      "literal": "Eat",
+      "contextual": "Casual 'eat'. The polite form is 'dhahar'.",
+      "level": "casual",
+      "guidanceType": "social",
+      "culturalTip": "When inviting an elder to eat, use 'dhahar', not 'mangan'. Offering food first is a strong sign of hospitality."
+    },
+    {
+      "term": "Ojo lali",
+      "pronunciation": "o-jo la-li",
+      "literal": "Don't forget",
+      "contextual": "A casual, friendly reminder — 'don't forget!'",
+      "level": "casual",
+      "guidanceType": "response",
+      "culturalTip": "Said warmly between friends. Acknowledge with 'siap' (ready/got it) and a thumbs-up."
+    }
+  ]
+}

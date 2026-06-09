@@ -1,0 +1,99 @@
+{
+  "id": "balinese",
+  "name": "Balinese",
+  "language": "Basa Bali",
+  "description": "Common phrases, caste-influenced vocabulary levels, and cultural terms tied to rituals and daily life in Bali.",
+  "premium": false,
+  "entries": [
+    {
+      "term": "Nggih",
+      "pronunciation": "ng-gih",
+      "literal": "Yes",
+      "contextual": "Casual-to-neutral 'yes'. Widely used in everyday agreement.",
+      "level": "casual",
+      "guidanceType": "response",
+      "culturalTip": "This means 'yes' in casual context — respond with a smile and a nod. In formal settings, use 'inggih' instead."
+    },
+    {
+      "term": "Inggih",
+      "pronunciation": "ing-gih",
+      "literal": "Yes (respectful)",
+      "contextual": "Polite 'yes' (basa alus). Used with elders, priests, or higher caste.",
+      "level": "polite",
+      "guidanceType": "social",
+      "culturalTip": "Use this in temples or with respected elders. Combine with palms together (cakupan tangan) for deep respect."
+    },
+    {
+      "term": "Suksma",
+      "pronunciation": "suk-sma",
+      "literal": "Thank you",
+      "contextual": "Polite thank you. 'Matur suksma' is the fuller, more respectful form.",
+      "level": "polite",
+      "guidanceType": "response",
+      "culturalTip": "Reply 'mewali' (you're welcome). A slight bow with palms together makes gratitude feel sincere."
+    },
+    {
+      "term": "Om Swastiastu",
+      "pronunciation": "ohm swas-ti-as-tu",
+      "literal": "May peace be with you",
+      "contextual": "The traditional Hindu Balinese greeting used at any time of day.",
+      "level": "ritual",
+      "guidanceType": "gesture",
+      "culturalTip": "Press your palms together at chest level (like a prayer) and bow slightly. Return the same greeting and gesture."
+    },
+    {
+      "term": "Rahajeng",
+      "pronunciation": "ra-ha-jeng",
+      "literal": "Good / blessed",
+      "contextual": "A well-wishing word, as in 'rahajeng semeng' (good morning).",
+      "level": "polite",
+      "guidanceType": "response",
+      "culturalTip": "Greet back warmly with the same phrase. Smiling is expected — Balinese greetings carry genuine warmth."
+    },
+    {
+      "term": "Sing ken-ken",
+      "pronunciation": "sing ken-ken",
+      "literal": "It's no problem",
+      "contextual": "Casual 'no worries / it's fine'. Very common reassurance slang.",
+      "level": "casual",
+      "guidanceType": "response",
+      "culturalTip": "A relaxed, friendly phrase. Say it with an easy smile to put others at ease after a small mishap."
+    },
+    {
+      "term": "Canang",
+      "pronunciation": "cha-nang",
+      "literal": "Daily offering",
+      "contextual": "The small palm-leaf offerings placed on the ground and shrines daily.",
+      "level": "ritual",
+      "guidanceType": "taboo",
+      "culturalTip": "Never step on or over a canang on the sidewalk — walk around it. Stepping on offerings is deeply disrespectful."
+    },
+    {
+      "term": "Sampun",
+      "pronunciation": "sam-pun",
+      "literal": "Already / done",
+      "contextual": "Polite 'already' — e.g. already eaten, already finished.",
+      "level": "polite",
+      "guidanceType": "social",
+      "culturalTip": "Often the polite answer to 'have you eaten?'. Replying 'sampun' even symbolically keeps the exchange courteous."
+    },
+    {
+      "term": "Tiang",
+      "pronunciation": "tee-yang",
+      "literal": "I / me (humble)",
+      "contextual": "The humble word for 'I' used in polite speech.",
+      "level": "polite",
+      "guidanceType": "social",
+      "culturalTip": "Use 'tiang' instead of the casual 'icang' when speaking to elders or strangers to show humility."
+    },
+    {
+      "term": "Sembah",
+      "pronunciation": "sem-bah",
+      "literal": "Reverent salute / bow",
+      "contextual": "A gesture of deep respect with palms together raised toward the face.",
+      "level": "ritual",
+      "guidanceType": "gesture",
+      "culturalTip": "Reserved for prayer, priests, and sacred contexts. Don't use it casually — it carries strong spiritual meaning."
+    }
+  ]
+}
